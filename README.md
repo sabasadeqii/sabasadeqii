@@ -1,4 +1,4 @@
-![logo](https://github.com/sabasadeqii/sabasadeqii/blob/main/freepik__the-style-is-candid-image-photography-with-natural__48683.jpeg)
+![logo](https://github.com/sabasadeqii/sabasadeqii/blob/main/photo.jpeg)
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Saba</h1>
 <h3 align="center">A passionate and dedicated Frontend developer👩🏻‍💻</h3>
 
