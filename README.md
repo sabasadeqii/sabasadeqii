@@ -17,7 +17,6 @@
 
 - 📫 How to reach me:
 -  **saba.sadeghiii83@gmail.com**
--  **https://t.me/sabasadeghiii**
 -  **https://www.instagram.com/sabasadeqi**
 -  **https://www.linkedin.com/in/saba-sadeghi83/**
 
