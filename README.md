@@ -3,6 +3,9 @@
 
 <p align="left"> <img align="right" alt="saba" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"> </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabasadeqii&label=Profile%20views&color=0e75b6&style=flat" alt="sabasadeqii" /> </p>
+
 - I have a keen interest in **web development,cybersecurity and open-source contributions💻**
 
 - I’m currently learning **python,Machine Learning, Deep Learning, javascript and React.**
