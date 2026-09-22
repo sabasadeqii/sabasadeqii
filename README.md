@@ -23,7 +23,7 @@ All of my projects are available on GitHub:
 - 📫 How to reach me:
 -  **saba.sadeghiii83@gmail.com**
 -  **https://www.instagram.com/sabaintel**
--  **https://www.linkedin.com/in/saba-sadeghi83/**
+-  **https://www.linkedin.com/in/sabasadeghii/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
