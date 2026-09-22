@@ -21,7 +21,7 @@
 
 - 📫 How to reach me:
 -  **saba.sadeghiii83@gmail.com**
--  **https://www.instagram.com/sabasadeqi**
+-  **https://www.instagram.com/sabaintel**
 -  **https://www.linkedin.com/in/saba-sadeghi83/**
 
 <h3 align="left">Connect with me:</h3>
