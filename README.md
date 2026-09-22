@@ -7,17 +7,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabasadeqii&label=Profile%20views&color=0e75b6&style=flat" alt="sabasadeqii" /> </p>
 
-- I have a keen interest in **web development,cybersecurity and open-source contributions💻**
+I'm Saba Sadeghi, a Frontend Developer and UI/UX Designer with 3-4 years of experience building and designing for the web. My core toolkit includes HTML5, CSS, JavaScript, Bootstrap, and Tailwind, and I bring a strong eye for user-centered design alongside solid front-end implementation skills.
 
-- I’m currently learning **python,Machine Learning, Deep Learning, javascript and React.**
+Over the past year, I've expanded into Artificial Intelligence — working with Python, Machine Learning, Prompt Engineering, AI tools, and foundational Deep Learning concepts. I hold a Bachelor's degree in Computer Engineering and am currently pursuing a Master's in Artificial Intelligence.
 
-- I enjoy working on **projects that challenge me and allow me to learn new technologies❤️**
+I currently work as a Web & AI Instructor and teach part-time at a private girls' high school, where I help students build practical skills in programming and AI.
 
-- In my free time, I love to **explore new technologies, contribute to open-source projects, and participate in hackathons**
+I'm driven by curiosity and a genuine love for solving challenging problems. I believe real growth comes from continuous learning, hands-on experimentation, and collaborating with people who share that same drive.
 
-- All of my projects are available at [https://github.com/sabasadeqii](https://github.com/sabasadeqii)
+All of my projects are available on GitHub:
 
-- I believe in the power of **collaboration and am always eager to connect with like-minded individuals.**
+ [https://github.com/sabasadeqii](https://github.com/sabasadeqii)
+
 
 - 📫 How to reach me:
 -  **saba.sadeghiii83@gmail.com**
